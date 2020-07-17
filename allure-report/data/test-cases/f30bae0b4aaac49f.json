@@ -1,0 +1,74 @@
+{
+  "uid" : "f30bae0b4aaac49f",
+  "name" : "When the user enter \"Back to the Future\" into the search box",
+  "fullName" : "Google Searching: Search from the search bar provides correct links.When the user enter \"Back to the Future\" into the search box",
+  "historyId" : "7b16b62b27b52649c9327cf73ec2029",
+  "time" : {
+    "start" : 1594992201172,
+    "stop" : 1594992204306,
+    "duration" : 3134
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "47fcc0777d3b27ad",
+      "name" : "Screenshot",
+      "source" : "47fcc0777d3b27ad.png",
+      "type" : "image/png",
+      "size" : 342585
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "testMethod",
+    "value" : "When the user enter \"Back to the Future\" into the search box"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f30bae0b4aaac49f.json",
+  "parameterValues" : [ "chrome" ]
+}

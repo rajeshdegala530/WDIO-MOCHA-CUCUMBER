@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1594992210144' stop='1594992213971'>
+    <name>Google Searching: Search form the google search bar provide correct links - Outline Test</name>
+    <title>Google Searching: Search form the google search bar provide correct links - Outline Test</title>
+    <test-cases>
+        <test-case start='1594992210144' status='passed' stop='1594992210144'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1594992210144' status='passed' stop='1594992211683'>
+            <name>Given a web browser is on Google home page</name>
+            <title>Given a web browser is on Google home page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7850bef6-010e-4afb-9823-8f957c340f2c-attachment.png' type='image/png' size='46757'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992211683' status='passed' stop='1594992213533'>
+            <name>When the user enter "News" into the search box</name>
+            <title>When the user enter "News" into the search box</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6399a911-a61b-42bf-aa34-d89e39440187-attachment.png' type='image/png' size='120017'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992213533' status='passed' stop='1594992213970'>
+            <name>Then links related to "Home - BBC News" are shown on the results page</name>
+            <title>Then links related to "Home - BBC News" are shown on the results page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9563e4a3-e4cb-4795-b5d3-dbbc62143003-attachment.png' type='image/png' size='120017'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992213971' status='passed' stop='1594992213971'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,74 @@
+{
+  "uid" : "d2fb931046e0b992",
+  "name" : "When the user enter \"Weather\" into the search box",
+  "fullName" : "Google Searching: Search form the google search bar provide correct links - Outline Test.When the user enter \"Weather\" into the search box",
+  "historyId" : "691fb08844e408afad4f41fb49a4251c",
+  "time" : {
+    "start" : 1594992215433,
+    "stop" : 1594992217720,
+    "duration" : 2287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2d1cec6ba161bc1a",
+      "name" : "Screenshot",
+      "source" : "2d1cec6ba161bc1a.png",
+      "type" : "image/png",
+      "size" : 79946
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "When the user enter \"Weather\" into the search box"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2fb931046e0b992.json",
+  "parameterValues" : [ "chrome" ]
+}

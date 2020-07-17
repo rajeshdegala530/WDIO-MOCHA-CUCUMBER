@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1594992204831' stop='1594992210137'>
+    <name>Google Searching: Search form the google search bar provide correct links - Outline Test</name>
+    <title>Google Searching: Search form the google search bar provide correct links - Outline Test</title>
+    <test-cases>
+        <test-case start='1594992204831' status='passed' stop='1594992204832'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1594992204832' status='passed' stop='1594992207311'>
+            <name>Given a web browser is on Google home page</name>
+            <title>Given a web browser is on Google home page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='43bda89c-c011-4e06-9aaf-99ad8124885f-attachment.png' type='image/png' size='46731'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992207312' status='passed' stop='1594992209654'>
+            <name>When the user enter "Cucumber" into the search box</name>
+            <title>When the user enter "Cucumber" into the search box</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6cd00384-6742-4c8e-93bd-7f80aa39b768-attachment.png' type='image/png' size='339640'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992209654' status='passed' stop='1594992210135'>
+            <name>Then links related to "Cucumber - Wikipedia" are shown on the results page</name>
+            <title>Then links related to "Cucumber - Wikipedia" are shown on the results page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1069f941-b8cf-479a-8865-230e7be20a75-attachment.png' type='image/png' size='339640'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992210136' status='passed' stop='1594992210136'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

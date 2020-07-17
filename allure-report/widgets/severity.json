@@ -1,0 +1,121 @@
+[ {
+  "uid" : "d2fb931046e0b992",
+  "name" : "When the user enter \"Weather\" into the search box",
+  "time" : {
+    "start" : 1594992215433,
+    "stop" : 1594992217720,
+    "duration" : 2287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b25e238fac28edcf",
+  "name" : "Then links related to \"Home - BBC News\" are shown on the results page",
+  "time" : {
+    "start" : 1594992213533,
+    "stop" : 1594992213970,
+    "duration" : 437
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "935c92f6d0a67f85",
+  "name" : "Then links related to \"Back to the Future - Wikipedia\" are shown on the results page",
+  "time" : {
+    "start" : 1594992204306,
+    "stop" : 1594992204812,
+    "duration" : 506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "782b0cb33501744a",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1594992218192,
+    "stop" : 1594992218192,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eda98697bb295f0c",
+  "name" : "Then links related to \"Cucumber - Wikipedia\" are shown on the results page",
+  "time" : {
+    "start" : 1594992209654,
+    "stop" : 1594992210135,
+    "duration" : 481
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "537ce1df6d10fa7e",
+  "name" : "Given a web browser is on Google home page",
+  "time" : {
+    "start" : 1594992197210,
+    "stop" : 1594992201172,
+    "duration" : 3962
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f30bae0b4aaac49f",
+  "name" : "When the user enter \"Back to the Future\" into the search box",
+  "time" : {
+    "start" : 1594992201172,
+    "stop" : 1594992204306,
+    "duration" : 3134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "909458011a1d64d2",
+  "name" : "When the user enter \"Cucumber\" into the search box",
+  "time" : {
+    "start" : 1594992207312,
+    "stop" : 1594992209654,
+    "duration" : 2342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a73c1629c76c99b7",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1594992204812,
+    "stop" : 1594992204813,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aba6c1a447528ab7",
+  "name" : "Then links related to \"Wellingborough - BBC Weather\" are shown on the results page",
+  "time" : {
+    "start" : 1594992217720,
+    "stop" : 1594992218192,
+    "duration" : 472
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7667588504a3856",
+  "name" : "When the user enter \"News\" into the search box",
+  "time" : {
+    "start" : 1594992211683,
+    "stop" : 1594992213533,
+    "duration" : 1850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33c703ac4616481d",
+  "name" : "Given a web browser is on Google home page",
+  "time" : {
+    "start" : 1594992213978,
+    "stop" : 1594992215432,
+    "duration" : 1454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

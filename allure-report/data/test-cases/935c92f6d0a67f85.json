@@ -1,0 +1,74 @@
+{
+  "uid" : "935c92f6d0a67f85",
+  "name" : "Then links related to \"Back to the Future - Wikipedia\" are shown on the results page",
+  "fullName" : "Google Searching: Search from the search bar provides correct links.Then links related to \"Back to the Future - Wikipedia\" are shown on the results page",
+  "historyId" : "ca7d92aeb40359b9940b239d874cf51f",
+  "time" : {
+    "start" : 1594992204306,
+    "stop" : 1594992204812,
+    "duration" : 506
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "99a33b34a4bbe61b",
+      "name" : "Screenshot",
+      "source" : "99a33b34a4bbe61b.png",
+      "type" : "image/png",
+      "size" : 342585
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then links related to \"Back to the Future - Wikipedia\" are shown on the results page"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "935c92f6d0a67f85.json",
+  "parameterValues" : [ "chrome" ]
+}

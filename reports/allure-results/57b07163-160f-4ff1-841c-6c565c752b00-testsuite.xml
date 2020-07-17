@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1594992197204' stop='1594992204814'>
+    <name>Google Searching: Search from the search bar provides correct links</name>
+    <title>Google Searching: Search from the search bar provides correct links</title>
+    <test-cases>
+        <test-case start='1594992197206' status='passed' stop='1594992197209'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1594992197210' status='passed' stop='1594992201172'>
+            <name>Given a web browser is on Google home page</name>
+            <title>Given a web browser is on Google home page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a8ae2658-bfa4-43ef-b6d1-a0e653a30885-attachment.png' type='image/png' size='46731'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992201172' status='passed' stop='1594992204306'>
+            <name>When the user enter "Back to the Future" into the search box</name>
+            <title>When the user enter "Back to the Future" into the search box</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4bf568de-5131-4c19-91de-8e6aed3f313c-attachment.png' type='image/png' size='342585'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992204306' status='passed' stop='1594992204812'>
+            <name>Then links related to "Back to the Future - Wikipedia" are shown on the results page</name>
+            <title>Then links related to "Back to the Future - Wikipedia" are shown on the results page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='28bbd91e-532f-4070-93ac-f17aaaa17e52-attachment.png' type='image/png' size='342585'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992204812' status='passed' stop='1594992204813'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

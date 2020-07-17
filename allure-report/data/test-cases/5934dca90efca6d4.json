@@ -1,0 +1,56 @@
+{
+  "uid" : "5934dca90efca6d4",
+  "name" : "Hook",
+  "fullName" : "Google Searching: Search form the google search bar provide correct links - Outline Test.Hook",
+  "historyId" : "7d91900e59717d19f6253d7056b03982",
+  "time" : {
+    "start" : 1594992213977,
+    "stop" : 1594992213978,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5934dca90efca6d4.json",
+  "parameterValues" : [ "chrome" ]
+}

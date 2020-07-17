@@ -1,0 +1,90 @@
+{
+  "uid" : "33c703ac4616481d",
+  "name" : "Given a web browser is on Google home page",
+  "fullName" : "Google Searching: Search form the google search bar provide correct links - Outline Test.Given a web browser is on Google home page",
+  "historyId" : "7a140d30d278a139e848d679a3120a1f",
+  "time" : {
+    "start" : 1594992213978,
+    "stop" : 1594992215432,
+    "duration" : 1454
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "87f77f4ffb154f8d",
+      "name" : "Screenshot",
+      "source" : "87f77f4ffb154f8d.png",
+      "type" : "image/png",
+      "size" : 46731
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given a web browser is on Google home page"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3f043426ea222f83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992210144,
+        "stop" : 1594992211683,
+        "duration" : 1539
+      }
+    }, {
+      "uid" : "667e5de43d7c9cb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992204832,
+        "stop" : 1594992207311,
+        "duration" : 2479
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33c703ac4616481d.json",
+  "parameterValues" : [ "chrome" ]
+}

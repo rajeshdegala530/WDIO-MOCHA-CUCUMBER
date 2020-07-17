@@ -1,0 +1,74 @@
+{
+  "uid" : "b25e238fac28edcf",
+  "name" : "Then links related to \"Home - BBC News\" are shown on the results page",
+  "fullName" : "Google Searching: Search form the google search bar provide correct links - Outline Test.Then links related to \"Home - BBC News\" are shown on the results page",
+  "historyId" : "a8dbf601a2c86c6e0a4a4c8ecd6656f6",
+  "time" : {
+    "start" : 1594992213533,
+    "stop" : 1594992213970,
+    "duration" : 437
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e6df3a9816594067",
+      "name" : "Screenshot",
+      "source" : "e6df3a9816594067.png",
+      "type" : "image/png",
+      "size" : 120017
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then links related to \"Home - BBC News\" are shown on the results page"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b25e238fac28edcf.json",
+  "parameterValues" : [ "chrome" ]
+}

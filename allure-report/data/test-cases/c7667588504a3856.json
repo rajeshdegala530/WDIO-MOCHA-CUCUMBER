@@ -1,0 +1,74 @@
+{
+  "uid" : "c7667588504a3856",
+  "name" : "When the user enter \"News\" into the search box",
+  "fullName" : "Google Searching: Search form the google search bar provide correct links - Outline Test.When the user enter \"News\" into the search box",
+  "historyId" : "c60c3c715d19eff5da0d16393daff028",
+  "time" : {
+    "start" : 1594992211683,
+    "stop" : 1594992213533,
+    "duration" : 1850
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b311fa42422c31e6",
+      "name" : "Screenshot",
+      "source" : "b311fa42422c31e6.png",
+      "type" : "image/png",
+      "size" : 120017
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "When the user enter \"News\" into the search box"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7667588504a3856.json",
+  "parameterValues" : [ "chrome" ]
+}

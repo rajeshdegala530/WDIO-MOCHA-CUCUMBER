@@ -1,0 +1,74 @@
+{
+  "uid" : "eda98697bb295f0c",
+  "name" : "Then links related to \"Cucumber - Wikipedia\" are shown on the results page",
+  "fullName" : "Google Searching: Search form the google search bar provide correct links - Outline Test.Then links related to \"Cucumber - Wikipedia\" are shown on the results page",
+  "historyId" : "67ef68418ace3053075508334e54c1f",
+  "time" : {
+    "start" : 1594992209654,
+    "stop" : 1594992210135,
+    "duration" : 481
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "250c2671c312645b",
+      "name" : "Screenshot",
+      "source" : "250c2671c312645b.png",
+      "type" : "image/png",
+      "size" : 339640
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then links related to \"Cucumber - Wikipedia\" are shown on the results page"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eda98697bb295f0c.json",
+  "parameterValues" : [ "chrome" ]
+}

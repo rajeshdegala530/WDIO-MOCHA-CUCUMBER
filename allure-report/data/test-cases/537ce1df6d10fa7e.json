@@ -1,0 +1,74 @@
+{
+  "uid" : "537ce1df6d10fa7e",
+  "name" : "Given a web browser is on Google home page",
+  "fullName" : "Google Searching: Search from the search bar provides correct links.Given a web browser is on Google home page",
+  "historyId" : "267cf540b7008e530317f3ca4f5919bc",
+  "time" : {
+    "start" : 1594992197210,
+    "stop" : 1594992201172,
+    "duration" : 3962
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "82af826ae3da451",
+      "name" : "Screenshot",
+      "source" : "82af826ae3da451.png",
+      "type" : "image/png",
+      "size" : 46731
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given a web browser is on Google home page"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "537ce1df6d10fa7e.json",
+  "parameterValues" : [ "chrome" ]
+}

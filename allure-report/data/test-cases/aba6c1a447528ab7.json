@@ -1,0 +1,74 @@
+{
+  "uid" : "aba6c1a447528ab7",
+  "name" : "Then links related to \"Wellingborough - BBC Weather\" are shown on the results page",
+  "fullName" : "Google Searching: Search form the google search bar provide correct links - Outline Test.Then links related to \"Wellingborough - BBC Weather\" are shown on the results page",
+  "historyId" : "37f06d25b68a4b0f97b588d5181bdd46",
+  "time" : {
+    "start" : 1594992217720,
+    "stop" : 1594992218192,
+    "duration" : 472
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9a52629057ff9006",
+      "name" : "Screenshot",
+      "source" : "9a52629057ff9006.png",
+      "type" : "image/png",
+      "size" : 79946
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then links related to \"Wellingborough - BBC Weather\" are shown on the results page"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search form the google search bar provide correct links - Outline Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aba6c1a447528ab7.json",
+  "parameterValues" : [ "chrome" ]
+}

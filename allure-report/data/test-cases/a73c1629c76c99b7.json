@@ -1,0 +1,66 @@
+{
+  "uid" : "a73c1629c76c99b7",
+  "name" : "Hook",
+  "fullName" : "Google Searching: Search from the search bar provides correct links.Hook",
+  "historyId" : "7db53f6817122edbec8cf15aa014c5c3",
+  "time" : {
+    "start" : 1594992204812,
+    "stop" : 1594992204813,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "testClass",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Google Searching: Search from the search bar provides correct links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e9c0b57490b41309",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992197206,
+        "stop" : 1594992197209,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a73c1629c76c99b7.json",
+  "parameterValues" : [ "chrome" ]
+}

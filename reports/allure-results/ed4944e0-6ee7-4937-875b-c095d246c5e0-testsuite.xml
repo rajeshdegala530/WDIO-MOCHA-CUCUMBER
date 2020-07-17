@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1594992213977' stop='1594992218193'>
+    <name>Google Searching: Search form the google search bar provide correct links - Outline Test</name>
+    <title>Google Searching: Search form the google search bar provide correct links - Outline Test</title>
+    <test-cases>
+        <test-case start='1594992213977' status='passed' stop='1594992213978'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1594992213978' status='passed' stop='1594992215432'>
+            <name>Given a web browser is on Google home page</name>
+            <title>Given a web browser is on Google home page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e572d263-7564-4f22-b15c-28ef0f39e524-attachment.png' type='image/png' size='46731'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992215433' status='passed' stop='1594992217720'>
+            <name>When the user enter "Weather" into the search box</name>
+            <title>When the user enter "Weather" into the search box</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='71c0bcf3-feb3-434a-a783-b84415e76a3b-attachment.png' type='image/png' size='79946'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992217720' status='passed' stop='1594992218192'>
+            <name>Then links related to "Wellingborough - BBC Weather" are shown on the results page</name>
+            <title>Then links related to "Wellingborough - BBC Weather" are shown on the results page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1d33e351-1fd7-45d5-a371-83dc85291f4d-attachment.png' type='image/png' size='79946'/>
+            </attachments>
+        </test-case>
+        <test-case start='1594992218192' status='passed' stop='1594992218192'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

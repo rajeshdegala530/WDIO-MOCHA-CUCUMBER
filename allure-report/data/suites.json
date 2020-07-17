@@ -1,0 +1,169 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Google Searching: Search from the search bar provides correct links",
+    "children" : [ {
+      "name" : "Given a web browser is on Google home page",
+      "uid" : "537ce1df6d10fa7e",
+      "parentUid" : "b6fcbe5b5b88e35f4eb1df807cd38b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992197210,
+        "stop" : 1594992201172,
+        "duration" : 3962
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When the user enter \"Back to the Future\" into the search box",
+      "uid" : "f30bae0b4aaac49f",
+      "parentUid" : "b6fcbe5b5b88e35f4eb1df807cd38b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992201172,
+        "stop" : 1594992204306,
+        "duration" : 3134
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then links related to \"Back to the Future - Wikipedia\" are shown on the results page",
+      "uid" : "935c92f6d0a67f85",
+      "parentUid" : "b6fcbe5b5b88e35f4eb1df807cd38b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992204306,
+        "stop" : 1594992204812,
+        "duration" : 506
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "a73c1629c76c99b7",
+      "parentUid" : "b6fcbe5b5b88e35f4eb1df807cd38b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992204812,
+        "stop" : 1594992204813,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "b6fcbe5b5b88e35f4eb1df807cd38b2c"
+  }, {
+    "name" : "Google Searching: Search form the google search bar provide correct links - Outline Test",
+    "children" : [ {
+      "name" : "When the user enter \"Cucumber\" into the search box",
+      "uid" : "909458011a1d64d2",
+      "parentUid" : "9164798145a51d8a51f507eb157c8540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992207312,
+        "stop" : 1594992209654,
+        "duration" : 2342
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then links related to \"Cucumber - Wikipedia\" are shown on the results page",
+      "uid" : "eda98697bb295f0c",
+      "parentUid" : "9164798145a51d8a51f507eb157c8540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992209654,
+        "stop" : 1594992210135,
+        "duration" : 481
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When the user enter \"News\" into the search box",
+      "uid" : "c7667588504a3856",
+      "parentUid" : "9164798145a51d8a51f507eb157c8540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992211683,
+        "stop" : 1594992213533,
+        "duration" : 1850
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then links related to \"Home - BBC News\" are shown on the results page",
+      "uid" : "b25e238fac28edcf",
+      "parentUid" : "9164798145a51d8a51f507eb157c8540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992213533,
+        "stop" : 1594992213970,
+        "duration" : 437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given a web browser is on Google home page",
+      "uid" : "33c703ac4616481d",
+      "parentUid" : "9164798145a51d8a51f507eb157c8540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992213978,
+        "stop" : 1594992215432,
+        "duration" : 1454
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When the user enter \"Weather\" into the search box",
+      "uid" : "d2fb931046e0b992",
+      "parentUid" : "9164798145a51d8a51f507eb157c8540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992215433,
+        "stop" : 1594992217720,
+        "duration" : 2287
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then links related to \"Wellingborough - BBC Weather\" are shown on the results page",
+      "uid" : "aba6c1a447528ab7",
+      "parentUid" : "9164798145a51d8a51f507eb157c8540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992217720,
+        "stop" : 1594992218192,
+        "duration" : 472
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "782b0cb33501744a",
+      "parentUid" : "9164798145a51d8a51f507eb157c8540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594992218192,
+        "stop" : 1594992218192,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "9164798145a51d8a51f507eb157c8540"
+  } ]
+}
