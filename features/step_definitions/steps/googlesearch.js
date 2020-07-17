@@ -9,13 +9,13 @@ Given('a web browser is on Google home page',()=>{
     Url.loadURL()
 })
 
-When(/^the user enter "(.*)" into the search box$/, keyword => {
-    GoogleSearchPage.SearchInput(keyword)
+When(/^the user enter "(.*)" into the search box$/, (SearchText) => {
+    GoogleSearchPage.SearchInput(SearchText)
 })
 
-Then (/^links related to "(.*)" are shown on the results page$/,(linktext) =>{
+Then (/^links related to "(.*)" are shown on the results page$/,(Result) =>{
 
-GoogleResultsPage.LinkDisplayed(linktext)
+GoogleResultsPage.LinkDisplayed(Result)
 
 })
 

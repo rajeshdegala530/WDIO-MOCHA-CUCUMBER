@@ -125,6 +125,13 @@ exports.config = {
     // The only one supported by default is 'dot'
     // see also: https://webdriver.io/docs/dot-reporter.html
     reporters: ['spec'],
+    reporters: [
+		['allure', {
+			outputDir: './reports/allure-results',
+			disableWebdriverStepsReporting: true,
+			disableWebdriverScreenshotsReporting: false,
+		}]
+	],
 
 
     //
@@ -227,8 +234,14 @@ exports.config = {
     /**
      * Runs after a Cucumber step
      */
-    // afterStep: function ({ uri, feature, step }, context, { error, result, duration, passed, retries }) {
-    // },
+     afterStep: function ({ uri, feature, step }, context, { error, result, duration, passed, retries }) {
+        {
+            var date = Date.now()
+            if (error || passed) {
+                browser.saveScreenshot('./reports/Screenshots/ ' + date + '.png')
+            }
+    }},
+
     /**
      * Runs after a Cucumber scenario
      */

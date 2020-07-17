@@ -5,10 +5,10 @@ class GoogleResultsPage extends Base{
     get resultLink(){
         return $('h3')
     }
-    LinkDisplayed(linktext)
+    LinkDisplayed(Result)
     {
         this.resultLink.waitForDisplayed()  
-        expect(this.resultLink).toHaveText(linktext)
+        expect(this.resultLink).toBeDisplayed(Result)
 
       }
         

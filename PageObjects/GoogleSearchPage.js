@@ -11,11 +11,11 @@ class GoogleSearchPage extends Base {
         return $('.gNO89b')
     }
 
-    SearchInput(keyword)
+    SearchInput(SearchText)
     {
         this.searchInputbox.waitForDisplayed()
         this.searchInputbox.click()
-        this.searchInputbox.setValue(keyword)
+        this.searchInputbox.setValue(SearchText)
         this.searchButton.waitForDisplayed()
         this.searchButton.click()
 
